@@ -1,2 +1,4 @@
 # Estudos_Python
-Primeiiro repositorio CeV 
+Primeiro repositório CeV.
+
+Repositório criado durante uma aula ao vivo!
