@@ -1,8 +1,8 @@
 # Funçao
-def leiaInt(merda):
+def leiaInt(msg):
     valor = 0
     while True:
-        numero_dentro = str(input(merda))
+        numero_dentro = str(input(msg))
         if numero_dentro.isnumeric():
             valor = numero_dentro
             break
